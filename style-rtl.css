@@ -1,0 +1,111 @@
+/*
+Theme Name: Honeypress Dark
+Theme URI: https://spicethemes.com/honeypress-dark-wordpress-theme/
+Author: spicethemes
+Author URI: https://spicethemes.com/
+Description: HoneyPress Dark WordPress Theme is a lightweight, elegant, fully responsive theme. Those who want the dark variation can use this theme. It allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, e-commerce, finance, agency, travel, photography, design, arts, personal, and any other creative websites and blogs. It comes with a predesigned home page, good-looking header designs and a number of content sections that you can easily customize. It also has lots of customization options (banner, services, testimonial, etc) that will help you create a beautiful, unique website in no time. HoneyPress is compatible with popular plugins like WPML, Polylang, Woo-commerce, and Contact Form 7.
+Template: honeypress
+Tags: one-column, two-columns, right-sidebar, custom-colors, custom-menu, custom-logo, featured-images, footer-widgets, sticky-post, threaded-comments, translation-ready, blog, e-commerce
+Version: 0.1
+Requires at least: 4.5
+Tested up to: 5.7
+Requires PHP: 5.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: honeypress-dark
+*/
+
+.custom-social-icons {
+    margin: 0;
+    padding: 0;
+}
+.custom-social-icons li {
+    display: inline-block;
+    padding: 0.313rem 0.5rem;
+}
+.custom-social-icons li a.facebook-f:hover, .custom-social-icons li a.facebook:hover { color: #3b5998 ; }
+.custom-social-icons li a.twitter:hover { color: #15b4c9 ; }
+.custom-social-icons li a.linkedin:hover { color: #006599 ; }
+.custom-social-icons li a.instagram:hover { color: #8a3ab9 ; }
+.custom-social-icons li a.youtube:hover { color: #cc2423 ; }
+.custom-social-icons li a.skype:hover { color: #40beee ; }
+.custom-social-icons li a.vimeo:hover { color: #aad450 ; }
+.custom-social-icons li a.dribbble:hover { color: #c7366f ; }
+
+.testi-5 .testmonial-block5 {
+    text-align: center;
+    padding: 100px 40px 5px;
+    margin-top: 100px;
+    position: relative;
+}
+.testi-5 .testmonial-block5:before {
+    content: "\f10e";
+    font-family: "FontAwesome";
+    font-weight: 900;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 50px;
+    opacity: 0.5;
+    color: #ffffff;
+}
+.testi-5 .testmonial-block5 .avatar {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: -80px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    color: #ffffff;
+}
+.testi-5 .testmonial-block5 .avatar img {
+    width: 100%;
+    height: auto;
+}
+.testmonial-block5 .rounded-circle {
+    border-radius: 0!important;
+}
+.testi-5 .testmonial-block5 figcaption {
+    display: block;
+    text-align: left;
+    font-size: 22px;
+    margin: 0;
+}
+.testi-5 .testmonial-block5 .name {
+    display: block;
+    font-size: 12px;
+    margin-top: 7px;
+}
+.dark .blog .list-view .post:last-child {
+    padding: 0 0 2.5rem;
+}
+.entry-meta .comment-links a::before {
+    margin-left: 1px;
+    margin-right: 7px;
+}
+blockquote {
+    border-left: none;
+    border-right: 4px solid #F9004D;
+}
+.wpcf7 .ajax-loader {
+    display: none;
+}
+.blog .list-view .right .post-thumbnail {
+    margin-left: 0;
+    margin-right: 2.188rem;
+    float: right;
+}
+
+/* Service */
+.dark .services .post-thumbnail img {
+    width: 80px;
+    height: 80px;
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    border-radius: 50%;
+}
+.dark .services .post:hover .post-thumbnail img {
+    -webkit-transform: scale3d(1.2, 1.2, 1);
+    transform: scale3d(1.2, 1.2, 1);
+}

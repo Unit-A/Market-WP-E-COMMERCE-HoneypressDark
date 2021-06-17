@@ -1,0 +1,113 @@
+/*
+Theme Name: Honeypress Dark
+Theme URI: https://spicethemes.com/honeypress-dark-wordpress-theme/
+Author: spicethemes
+Author URI: https://spicethemes.com/
+Description: HoneyPress Dark WordPress Theme is a lightweight, elegant, fully responsive theme. Those who want the dark variation can use this theme. It allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, e-commerce, finance, agency, travel, photography, design, arts, personal, and any other creative websites and blogs. It comes with a predesigned home page, good-looking header designs and a number of content sections that you can easily customize. It also has lots of customization options (banner, services, testimonial, etc) that will help you create a beautiful, unique website in no time. HoneyPress is compatible with popular plugins like WPML, Polylang, Woo-commerce, and Contact Form 7.
+Template: honeypress
+Tags: one-column, two-columns, right-sidebar, custom-colors, custom-menu, custom-logo, featured-images, footer-widgets, sticky-post, threaded-comments, translation-ready, blog, e-commerce
+Version: 0.1
+Requires at least: 4.5
+Tested up to: 5.7
+Requires PHP: 5.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: honeypress-dark
+*/
+
+.dark .search-icon .sub-arrow {
+  display: none;
+}
+.dark .search-icon {
+  padding-right: 0 !important;
+}
+@media (max-width: 991px) {
+  .dark .honeypress_header_btn {
+      line-height: 5 !important;
+  }
+  .dark .main-header-btn {
+    border-bottom: none;
+  }
+}
+.search-icon.bg-light {
+    background-color: transparent;
+}
+
+/* Blog */
+.dark .blog .list-view .post:last-child { padding: 0 0 2.5rem; }
+
+/* Testimoial */
+.testi-5 .testmonial-block5 {
+    text-align: center;
+    padding: 100px 40px 5px;
+    margin-top: 100px;
+    position: relative;
+}
+.testi-5 .testmonial-block5:before {
+    content: "\f10d";
+    font-family: "FontAwesome";
+    font-weight: 900;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 50px;
+    opacity: 0.5;
+}
+.testi-5 .testmonial-block5 .avatar {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: -80px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.testi-5 .testmonial-block5 .avatar img {
+    width: 100%;
+    height: auto;
+}
+.testi-5 .testmonial-block5 .description {
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
+.testi-5 .testmonial-block5 figcaption {
+    display: block;
+    text-align: right;
+    font-size: 22px;
+    margin: 0;
+}
+.testi-5 .testmonial-block5 .name {
+    display: block;
+    font-size: 12px;
+    margin-top: 7px;
+}
+.testi-5 .owl-theme .owl-controls .owl-page .designation {
+    width: 20px;
+    height: 3px;
+}
+@media only screen and (max-width: 479px) {
+   .testi-5 .testmonial-block5 { padding: 80px 15px 5px; }
+   .testi-5 .testmonial-block5::before { top: 10px; }
+   .testi-5 .testmonial-block5 .avatar {
+        width: 120px;
+        height: 120px;
+        top: -60px;
+  }
+}
+.testmonial-block5 .rounded-circle {
+  border-radius: 0!important;
+}
+
+/* Service */
+.dark .services .post-thumbnail img {
+    width: 80px;
+    height: 80px;
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+    border-radius: 50%;
+}
+.dark .services .post:hover .post-thumbnail img {
+    -webkit-transform: scale3d(1.2, 1.2, 1);
+    transform: scale3d(1.2, 1.2, 1);
+}

@@ -1,0 +1,637 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Honeypress Dark\n"
+"POT-Creation-Date: 2021-05-27 11:59+0530\n"
+"PO-Revision-Date: 2020-08-026 11:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/inc/class-spicethemes-about-page.php:72
+#: admin/inc/include-companion.php:41 admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:73
+#: admin/inc/include-companion.php:42 admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:74
+#: admin/inc/include-companion.php:43 admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:113
+msgid "View Theme Info"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:121
+#, php-format
+msgid "About %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:122
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:135
+#, php-format
+msgid ""
+"Honeypress Dark theme is installed. To take full advantage of the features "
+"this theme has to offer visit our %1$s welcome page %2$s"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:136
+msgid "Get started with Honeypress Dark theme"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:243
+msgid "See changelog below:"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:295
+#: admin/tab-pages/getting-started.php:20
+msgid "Getting Started"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:300
+msgid "Recommended Actions"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:308
+msgid "Support"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:315
+#: admin/tab-pages/useful_plugins.php:20
+#: admin/tab-pages/useful_plugins.php:22
+msgid "Changelog"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:320
+msgid "Free vs. PRO"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:392
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:394
+#: admin/inc/include-companion.php:81
+msgid "Install and activate"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:411
+#, php-format
+msgid "Activate %s now"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:413
+msgid "Activate"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:416
+msgid "Active"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:544
+#: admin/inc/include-companion.php:80 admin/inc/include-companion.php:97
+msgid "SpiceBox"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:546
+msgid ""
+"To access the advance Frontpage sections and other theme features, please "
+"install the SpiceBox plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:550
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:552
+msgid ""
+"To display the contact form on the contact section in homepage, please "
+"install the Contact Form 7 plugin"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:556
+msgid "Yoast SEO"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:558
+msgid "To display breadcrumbs, please install the Yoast SEO plugin."
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:562
+msgid "Unique Headers"
+msgstr ""
+
+#: admin/inc/class-spicethemes-about-page.php:564
+msgid ""
+"You can add different banner image for a different page or post according "
+"to you"
+msgstr ""
+
+#: admin/inc/include-companion.php:79
+msgid ""
+"To take advantage of this theme's features in the customizer you need to "
+"install the SpiceBox plugin."
+msgstr ""
+
+#: admin/inc/include-companion.php:80
+msgid "Install SpiceBox Now"
+msgstr ""
+
+#: admin/inc/include-companion.php:96
+msgid ""
+"You have installed the SpiceBox plugin. To take advantage of this theme's "
+"features in the customizer, you need to activate it."
+msgstr ""
+
+#: admin/inc/include-companion.php:97
+msgid "Activate SpiceBox now"
+msgstr ""
+
+#: admin/inc/include-companion.php:98
+msgid "Activate now"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:12
+msgid "Features"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:15
+msgid "Frontpage Sections"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:16
+msgid "You will find a number of sections on the front page."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "Page Templates Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:19
+msgid "Honeypress Dark includes various page templates."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "Layout Options"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid ""
+"Honeypress Dark supports both a Full-Width and a Boxed layout options. To "
+"choose your preference (and switch between them) go to Appearance > "
+"Customize."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Mobile Friendly"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "Responsive layout in all devices"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:27
+msgid "Sticky Header"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:29
+msgid "Reordering Meta Tags"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:31
+msgid "Footer Widgets"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:33
+msgid "Preloader"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:35
+msgid "Container Width"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:37
+msgid "After Menu"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:39
+msgid "Search Icon"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:41
+msgid "Cart Icon"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:43
+msgid "Logo Width"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:45
+msgid "Scroll to Top"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "Contact Form Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid ""
+"This theme supports the Contact Form 7 plugin. Use it to build your "
+"contact form."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:50
+msgid "Multiple Color Schemes"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:51
+msgid ""
+"Enjoy any of the 7 preset color schemes, or create your own, without "
+"adding any code."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:53
+msgid "Google Map"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:54
+msgid ""
+"Display your Shop and Business location on your website using Google Maps."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:56
+msgid "Portfolio"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:57
+msgid ""
+"Present your project/portfolio collection with 2 column, 3 column and 4 "
+"column layouts. You can also display your project/portfolio by category."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:59
+msgid "About Us Page"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:60
+msgid "Show team members and custom content added in the WordPress editor."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:62
+msgid "Services Page"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:63
+msgid "Show all your services in a single place."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:65
+msgid "Testimonial/Review Section"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:66 admin/tab-pages/free_vs_pro.php:69
+msgid "Show user feedback on the Homepage."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:68
+msgid "Footer Credit"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:71
+msgid "Typography Settings"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:72
+msgid "You can customize the style without adding any code."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:74
+msgid "WPML Support"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:75
+msgid "You can use WPML to make your website multilingual."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:77
+msgid "Demo Import"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:79
+msgid "Excerpt / Full content setting"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:81
+msgid "Page / Post Title Background Image"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:83
+msgid "Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:84
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:94
+msgid "Free"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:98
+msgid ""
+"Slider [Static Image], Services [3 Services], Testimonial, Latest News"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:101
+msgid "Business Template and Full-Width Template"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:103 admin/tab-pages/free_vs_pro.php:144
+msgid "Wide layout & Boxed Layout"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:105 admin/tab-pages/free_vs_pro.php:108
+#: admin/tab-pages/free_vs_pro.php:114
+msgid "Enable / Disable"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:107
+msgid "2Column, 3Column, 4Column"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:110
+msgid "Button + Html"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:111
+msgid "Toggle Search Effect"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:122
+msgid "Not Editable"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:127 admin/tab-pages/free_vs_pro.php:168
+msgid "Page, Post, Categories, Tags"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:129
+msgid "On WordPress.org Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:137
+msgid "Pro"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:141
+msgid ""
+"Top Header, Slider [Unlimited], Services [Unlimited], Portfolio "
+"[Unlimited], Latest News, Clients, Testimonials, Custom Widgets"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:143
+msgid ""
+"About, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, "
+"Page Full Width, Contact Page and much more."
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:146 admin/tab-pages/free_vs_pro.php:155
+msgid "Enable / Disable + Multiple options"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:148
+msgid "2Column, 3Column, 4Column + Multiple options"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:149
+msgid "Enable / Disable + Multiple Design"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:151
+msgid "Button + Html + Widgets"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:152
+msgid "Toggle Search Effect "
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:152
+msgid "2 More Search Effects"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:163
+msgid "Editable"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:168
+msgid "Search Page, 404 Page, Date Archive, Author Archive"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:170
+msgid "Premium Support Forum"
+msgstr ""
+
+#: admin/tab-pages/free_vs_pro.php:178
+msgid "Get PRO Version Now!"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:10
+msgid "About the Honeypress Dark theme"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:16
+msgid ""
+"This theme is ideal for creating corporate and business websites. "
+"Honeypress Dark is a child theme of the HoneyPress WordPress theme. The "
+"premium version has tons of features like a homepage with many sections "
+"where you can feature unlimited slides, portfolios, user reviews, latest "
+"news, services, call to action and much more. Each section in the Homepage "
+"template is carefully designed to fit to all business requirements."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:18
+msgid ""
+"You can use this theme for any type of activity. Honeypress Dark is "
+"compatible with popular plugins like WPML and Polylang for the translation."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:23
+msgid ""
+"To take full advantage of all the features this theme has to offer, "
+"install and activate the SpiceBox plugin. Go to Customize and install the "
+"SpiceBox plugin."
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:25
+msgid "Go to the Customizer"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:31
+msgid "Honeypress Dark theme"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:39
+msgid "Useful Links"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:45
+msgid "Lite Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:47
+msgid "PRO Demo"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:53
+msgid "Your feedback is valuable to us"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:55
+msgid "Premium Theme Support"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:61
+msgid "Premium Theme Details"
+msgstr ""
+
+#: admin/tab-pages/getting-started.php:68
+msgid "Premium Theme Help Docs"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:12
+#: admin/tab-pages/useful_plugins.php:14
+msgid "Contact Support"
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:13
+msgid ""
+"We want to make sure you have the best experience using honeypress dark, "
+"and that is why we have gathered all the necessary information here for "
+"you. We hope you will enjoy using honeypress dark as much as we enjoy "
+"creating great products."
+msgstr ""
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid ""
+"Want to get the gist on the latest theme changes? Just consult our "
+"changelog below to get a taste of the recent fixes and features "
+"implemented."
+msgstr ""
+
+#: functions.php:51
+msgid "Proudly powered by"
+msgstr ""
+
+#: functions.php:51
+msgid "https://wordpress.org"
+msgstr ""
+
+#: functions.php:51
+msgid "WordPress"
+msgstr ""
+
+#: functions.php:51
+msgid "| Theme:"
+msgstr ""
+
+#: functions.php:51
+msgid "https://spicethemes.com"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: functions.php:51
+msgid "Honeypress Dark"
+msgstr ""
+
+#: functions.php:51
+msgid "by SpiceThemes"
+msgstr ""
+
+#: header.php:15
+msgid "Skip to content"
+msgstr ""
+
+#: inc/header/header-nav.php:11
+msgid "Toggle navigation"
+msgstr ""
+
+#: inc/header/header-nav.php:32 inc/header/header-nav.php:61
+msgid "Search"
+msgstr ""
+
+#: inc/header/header-nav.php:32 inc/header/header-nav.php:61
+msgid "Search …"
+msgstr ""
+
+#: inc/header/header-nav.php:53
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: index-news.php:9
+msgid "Vitae Lacinia"
+msgstr ""
+
+#: index-news.php:10
+msgid "Cras Vitae Placerat"
+msgstr ""
+
+#: index-news.php:66 index-news.php:96
+msgid "By"
+msgstr ""
+
+#: index-news.php:73 index-news.php:104
+msgid "Read more"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://spicethemes.com/honeypress-dark-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"HoneyPress Dark WordPress Theme is a lightweight, elegant, fully "
+"responsive theme. Those who want the dark variation can use this theme. It "
+"allows you to create stunning blogs and websites. The theme is well suited "
+"for companies, law firms, e-commerce, finance, agency, travel, "
+"photography, design, arts, personal, and any other creative websites and "
+"blogs. It comes with a predesigned home page, good-looking header designs "
+"and a number of content sections that you can easily customize. It also "
+"has lots of customization options (banner, services, testimonial, etc) "
+"that will help you create a beautiful, unique website in no time. "
+"HoneyPress is compatible with popular plugins like WPML, Polylang, Woo-"
+"commerce, and Contact Form 7."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "spicethemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://spicethemes.com/"
+msgstr ""
